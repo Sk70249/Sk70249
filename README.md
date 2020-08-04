@@ -8,7 +8,7 @@
 <br />
 <br />
 
-My name is **Samyak Kala**I am a A **Machine Learning** enthusiast, focusing on **Deep Learning** and **Natural Language Processing (NLP)**
+My name is **Samyak Kala**, I am a A **Machine Learning** enthusiast, focusing on **Deep Learning** and **Natural Language Processing (NLP)**
 
 [![Samyak Kala's github stats](https://github-readme-stats.vercel.app/api?username=Sk70249)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -16,14 +16,21 @@ My name is **Samyak Kala**I am a A **Machine Learning** enthusiast, focusing on 
 
 💻 Recent projects in which I have contributed in my [gituhb](https://github.com/aniruddhachoudhury)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&repo=Wind-Energy-Analysis-and-Forecast-using-Deep-Learning-LSTM)](https://github.com/Sk70249/Wind-Energy-Analysis-and-Forecast-using-Deep-Learning-LSTM)
+<a href="https://github.com/Sk70249/Wind-Energy-Analysis-and-Forecast-using-Deep-Learning-LSTM">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&repo=Wind-Energy-Analysis-and-Forecast-using-Deep-Learning-LSTM" />
+</a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&repo=Diffrent-types-of-Clustering-Unsupervised-Learning)](https://github.com/Sk70249/Diffrent-types-of-Clustering-Unsupervised-Learning)
+<a href="https://github.com/Sk70249/Diffrent-types-of-Clustering-Unsupervised-Learning">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&repo=Diffrent-types-of-Clustering-Unsupervised-Learning" />
+</a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&repo=NLP-Spam-Ham-Classifier)](https://github.com/Sk70249/NLP-Spam-Ham-Classifier)
+<a href="https://github.com/Sk70249/NLP-Spam-Ham-Classifier">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&repo=NLP-Spam-Ham-Classifier" />
+</a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&repo=Bank-Customer-Analysis-using-Artificial-Neural-Network)](https://github.com/Sk70249/Bank-Customer-Analysis-using-Artificial-Neural-Network)
-
+<a href="https://github.com/Sk70249/Bank-Customer-Analysis-using-Artificial-Neural-Network">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&repo=Bank-Customer-Analysis-using-Artificial-Neural-Network" />
+</a>
 
 <!--
 **Sk70249/Sk70249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

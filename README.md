@@ -29,7 +29,7 @@ My name is **Samyak Kala**, I am a A **Machine Learning** enthusiast, focusing o
 </a>
 
 <a href="https://github.com/Sk70249/Bank-Customer-Analysis-using-Artificial-Neural-Network">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&repo=Bank-Customer-Analysis-using-Artificial-Neural-Network" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&repo=Bank-Customer-Analysis-using-Artificial-Neural-Network" />
 </a>
 
 <!--

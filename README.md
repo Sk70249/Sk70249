@@ -1,4 +1,29 @@
-### Hi there 👋
+### Hi there 👋 I'm [Samyak Kala](https://github.com/Sk70249)
+
+<a href="https://www.linkedin.com/in/samyak-kala-933a77169/">
+  <img align="left" alt="Samyak Kala's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://medium.com/@kalamanoj989">
+  <img align="left" alt="Samyak Kala's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<br />
+<br />
+
+My name is **Samyak Kala**I am a A **Machine Learning** enthusiast, focusing on **Deep Learning** and **Natural Language Processing (NLP)**
+
+[![Samyak Kala's github stats](https://github-readme-stats.vercel.app/api?username=Sk70249)](https://github.com/anuraghazra/github-readme-stats)
+
+:pushpin: Star and Fork this [README](https://github.com/Sk70249) :pencil:
+
+💻 Recent projects in which I have contributed in my [gituhb](https://github.com/aniruddhachoudhury)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&repo=Wind-Energy-Analysis-and-Forecast-using-Deep-Learning-LSTM)](https://github.com/Sk70249/Wind-Energy-Analysis-and-Forecast-using-Deep-Learning-LSTM)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&repo=Diffrent-types-of-Clustering-Unsupervised-Learning)](https://github.com/Sk70249/Diffrent-types-of-Clustering-Unsupervised-Learning)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&repo=NLP-Spam-Ham-Classifier)](https://github.com/Sk70249/NLP-Spam-Ham-Classifier)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&repo=Bank-Customer-Analysis-using-Artificial-Neural-Network)](https://github.com/Sk70249/Bank-Customer-Analysis-using-Artificial-Neural-Network)
+
 
 <!--
 **Sk70249/Sk70249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

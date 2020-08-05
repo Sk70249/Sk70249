@@ -12,7 +12,7 @@
 <br />
 <br />
 
-<img align="right" alt="GIF" width="350px" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<img align="right" alt="GIF" width="250px" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 My name is **Samyak Kala**, I am a A **Machine Learning** enthusiast, focusing on **Deep Learning** and **Natural Language Processing (NLP)**
 

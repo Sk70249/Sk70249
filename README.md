@@ -12,7 +12,7 @@
 <br />
 <br />
 
-<img align="right" alt="GIF" width="280px" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<img align="right" alt="GIF" width="280px" src="https://user-images.githubusercontent.com/48255425/89413834-1862cf00-d747-11ea-8e27-4950211e1398.gif" />
 
 My name is **Samyak Kala**, I am a A **Machine Learning** enthusiast, focusing on **Deep Learning** and **Natural Language Processing (NLP)**
 
@@ -22,7 +22,6 @@ My name is **Samyak Kala**, I am a A **Machine Learning** enthusiast, focusing o
 [![Samyak Kala's github stats](https://github-readme-stats.vercel.app/api?username=Sk70249&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sk70249&theme=algolia&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 :pushpin: Star and Fork this [README](https://github.com/Sk70249) :pencil:
 

@@ -12,8 +12,8 @@
 <br />
 <br />
 
-<img align="right" alt="GIF" width="280px" src="https://user-images.githubusercontent.com/48255425/89413834-1862cf00-d747-11ea-8e27-4950211e1398.gif" />
-
+<img align="right" alt="GIF" width="280px" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+ 
 My name is **Samyak Kala**, I am a A **Machine Learning** enthusiast, focusing on **Deep Learning** and **Natural Language Processing (NLP)**
 
 - 🔭 I’m currently working on Virtual Chatbot using [**Loom.ai**](https://loomai.com/) and [COVID-19 Analysis India vs The World](https://www.kaggle.com/samyakkala/covid-19-analysis-india-vs-the-world?scriptVersionId=40201277).

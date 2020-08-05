@@ -18,6 +18,8 @@ My name is **Samyak Kala**, I am a A **Machine Learning** enthusiast, focusing o
 - 🌱 I’m currently learning Object Detection with Open CV and YOLO, NLP using Deep Learning in Python3 and GAN(Generative Adversarial Networks) etc.
 
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+
 [![Samyak Kala's github stats](https://github-readme-stats.vercel.app/api?username=Sk70249&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 

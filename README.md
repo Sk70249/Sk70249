@@ -20,25 +20,31 @@ My name is **Samyak Kala**, I am a A **Machine Learning** enthusiast, focusing o
 
 [![Samyak Kala's github stats](https://github-readme-stats.vercel.app/api?username=Sk70249&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sk70249&theme=algolia&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 :pushpin: Star and Fork this [README](https://github.com/Sk70249) :pencil:
 
 💻 Recent projects in which I have contributed in my [gituhb](https://github.com/aniruddhachoudhury)
 
 <a href="https://github.com/Sk70249/Wind-Energy-Analysis-and-Forecast-using-Deep-Learning-LSTM">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&theme=dark&show_icons=true&repo=Wind-Energy-Analysis-and-Forecast-using-Deep-Learning-LSTM" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&theme=algolia&show_icons=true&repo=Wind-Energy-Analysis-and-Forecast-using-Deep-Learning-LSTM" />
 </a>
 
 <a href="https://github.com/Sk70249/Diffrent-types-of-Clustering-Unsupervised-Learning">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&theme=dark&show_icons=true&repo=Diffrent-types-of-Clustering-Unsupervised-Learning" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&theme=algolia&show_icons=true&repo=Diffrent-types-of-Clustering-Unsupervised-Learning" />
 </a>
 
 <a href="https://github.com/Sk70249/NLP-Spam-Ham-Classifier">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&theme=dark&show_icons=true&repo=NLP-Spam-Ham-Classifier" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&theme=algolia&show_icons=true&repo=NLP-Spam-Ham-Classifier" />
 </a>
 
 <a href="https://github.com/Sk70249/Bank-Customer-Analysis-using-Artificial-Neural-Network">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&theme=dark&show_icons=true&repo=Bank-Customer-Analysis-using-Artificial-Neural-Network" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&theme=algolia&show_icons=true&repo=Bank-Customer-Analysis-using-Artificial-Neural-Network" />
 </a>
+
+
 
 <!--
 **Sk70249/Sk70249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

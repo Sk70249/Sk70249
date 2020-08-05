@@ -17,12 +17,9 @@ My name is **Samyak Kala**, I am a A **Machine Learning** enthusiast, focusing o
 - 🔭 I’m currently working on Virtual Chatbot using [**Loom.ai**](https://loomai.com/) and [COVID-19 Analysis India vs The World](https://www.kaggle.com/samyakkala/covid-19-analysis-india-vs-the-world?scriptVersionId=40201277).
 - 🌱 I’m currently learning Object Detection with Open CV and YOLO, NLP using Deep Learning in Python3 and GAN(Generative Adversarial Networks) etc.
 
-
-[![Samyak Kala's github stats](https://github-readme-stats.vercel.app/api?username=Sk70249&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
+[![Samyak Kala's github stats](https://github-readme-stats.vercel.app/api?username=Sk70249&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sk70249&theme=algolia&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

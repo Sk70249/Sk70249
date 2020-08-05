@@ -5,31 +5,35 @@
 <a href="https://medium.com/@kalamanoj989">
   <img align="left" alt="Samyak Kala's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<a href="https://www.kaggle.com/samyakkala">
+  <img align="left" alt="Samyak Kala's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+</a>
+
 <br />
 <br />
 
 My name is **Samyak Kala**, I am a A **Machine Learning** enthusiast, focusing on **Deep Learning** and **Natural Language Processing (NLP)**
 
-[![Samyak Kala's github stats](https://github-readme-stats.vercel.app/api?username=Sk70249)](https://github.com/anuraghazra/github-readme-stats)
+[![Samyak Kala's github stats](https://github-readme-stats.vercel.app/api?username=Sk70249&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 :pushpin: Star and Fork this [README](https://github.com/Sk70249) :pencil:
 
 💻 Recent projects in which I have contributed in my [gituhb](https://github.com/aniruddhachoudhury)
 
 <a href="https://github.com/Sk70249/Wind-Energy-Analysis-and-Forecast-using-Deep-Learning-LSTM">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&repo=Wind-Energy-Analysis-and-Forecast-using-Deep-Learning-LSTM" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&theme=dark&show_icons=true&repo=Wind-Energy-Analysis-and-Forecast-using-Deep-Learning-LSTM" />
 </a>
 
 <a href="https://github.com/Sk70249/Diffrent-types-of-Clustering-Unsupervised-Learning">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&repo=Diffrent-types-of-Clustering-Unsupervised-Learning" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&theme=dark&show_icons=true&repo=Diffrent-types-of-Clustering-Unsupervised-Learning" />
 </a>
 
 <a href="https://github.com/Sk70249/NLP-Spam-Ham-Classifier">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&repo=NLP-Spam-Ham-Classifier" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&theme=dark&show_icons=true&repo=NLP-Spam-Ham-Classifier" />
 </a>
 
 <a href="https://github.com/Sk70249/Bank-Customer-Analysis-using-Artificial-Neural-Network">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&repo=Bank-Customer-Analysis-using-Artificial-Neural-Network" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Sk70249&theme=dark&show_icons=true&repo=Bank-Customer-Analysis-using-Artificial-Neural-Network" />
 </a>
 
 <!--

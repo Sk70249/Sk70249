@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm [Samyak Kala](https://github.com/Sk70249)
 
 <a href="https://www.linkedin.com/in/samyak-kala-933a77169/">
-  <img align="left" alt="Samyak Kala's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Samyak Kala's LinkdeIN" width="22px"  color="blue"  src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 <a href="https://medium.com/@kalamanoj989">
-  <img align="left" alt="Samyak Kala's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" alt="Samyak Kala's Medium" width="22px" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" />
 </a>
 <a href="https://www.kaggle.com/samyakkala">
-  <img align="left" alt="Samyak Kala's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+  <img align="left" alt="Samyak Kala's Kaggle" width="22px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />
 </a>
 
 <br />
